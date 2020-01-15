@@ -20,6 +20,9 @@ namespace DayThree
                 Console.WriteLine("Congratulations! You receive 5% off!");               
             }
                 Console.ReadKey();
+
+            //end of program
+
         }
     }
 }
